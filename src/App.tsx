@@ -1,7 +1,8 @@
+import { ContentPage } from './components/contentPage/ContentPage';
 import React from 'react';
 
 const App: React.FC = () => {
-  return <></>;
+  return <ContentPage />;
 };
 
 export default App;
